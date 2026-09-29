@@ -1,0 +1,12 @@
+-r requirements.txt
+
+# Qwen2.5-Omni
+qwen-omni-utils>=0.0.8
+
+# Common remote-code dependencies used by MiniCPM-o.
+einops>=0.8
+decord>=0.6
+minicpmo-utils[all]>=1.0.5
+
+# MiMo-Audio and Kimi-Audio must be installed from their official source
+# repositories as documented in README.md.

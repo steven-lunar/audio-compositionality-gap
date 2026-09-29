@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Datasets, audio, model checkpoints, and external repositories
+/data/*
+!/data/README.md
+!/data/.gitkeep
+/models/
+/checkpoints/
+/weights/
+/pretrained_models/
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.bin
+*.onnx
+*.wav
+*.flac
+*.mp3
+
+# Predictions and derived outputs
+/outputs/*
+!/outputs/README.md
+!/outputs/.gitkeep
+/results*/
+*.jsonl
+
+# Editors and OS
+.DS_Store
+.idea/
+.vscode/
