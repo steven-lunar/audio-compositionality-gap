@@ -313,6 +313,3 @@ Chien-Feng Liu, Chih-Kai Yang, Bo-Han Feng, Yu-Hsuan Li Liang, Hung-yi Lee, Chen
       url={https://arxiv.org/abs/2609.36921}, 
 }
 ```
-
-Replace `Author A and Author B and Author C`, `YEAR`, `ARXIV_ID`, and
-`PRIMARY_CLASS` with the final arXiv metadata before release.
