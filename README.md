@@ -298,19 +298,19 @@ own licenses and terms.
 
 If you find this work useful, please cite our paper:
 
-**Diagnostic Study of Capability Composition in Large Audio-Language Models**  
-Author A, Author B, and Author C  
-[arXiv:ARXIV_ID](https://arxiv.org/abs/ARXIV_ID)
+**When Capabilities Fail to Compose: Diagnosing the Compositionality Gap in Large Audio-Language Models**  
+Chien-Feng Liu, Chih-Kai Yang, Bo-Han Feng, Yu-Hsuan Li Liang, Hung-yi Lee, Cheng-Fu Chou
+[arXiv:2609.36921](https://arxiv.org/abs/2609.36921)
 
 ```bibtex
-@misc{authorYEARaudio_composition,
-  title         = {Diagnostic Study of Capability Composition in Large Audio-Language Models},
-  author        = {Author A and Author B and Author C},
-  year          = {YEAR},
-  eprint        = {ARXIV_ID},
-  archivePrefix = {arXiv},
-  primaryClass  = {PRIMARY_CLASS},
-  url           = {https://arxiv.org/abs/ARXIV_ID}
+@misc{liu2026capabilitiesfailcomposediagnosing,
+      title={When Capabilities Fail to Compose: Diagnosing the Compositionality Gap in Large Audio-Language Models}, 
+      author={Chien-Feng Liu and Chih-Kai Yang and Bo-Han Feng and Yu-Hsuan Li Liang and Hung-yi Lee and Cheng-Fu Chou},
+      year={2026},
+      eprint={2609.36921},
+      archivePrefix={arXiv},
+      primaryClass={cs.SD},
+      url={https://arxiv.org/abs/2609.36921}, 
 }
 ```
 
