@@ -149,14 +149,14 @@ upstream dependency requirements change.
 The final evaluation dataset is released separately on Hugging Face:
 
 ```text
-YOUR_ORG/YOUR_DATASET
+steven-lunar/audio-composition
 ```
 
 After replacing the placeholder with the released dataset ID, download the
 repository directly into the ignored local data directory:
 
 ```bash
-hf download YOUR_ORG/YOUR_DATASET \
+hf download steven-lunar/audio-composition\
   --repo-type dataset \
   --local-dir data/processed
 ```

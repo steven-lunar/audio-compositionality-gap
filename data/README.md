@@ -19,6 +19,3 @@ data/processed/
 ├── emo3way_math_concat/
 └── emo3way_trivia_qa_concat/
 ```
-
-Replace `YOUR_ORG/YOUR_DATASET` in the main README and `.env.example` with the
-permanent Hugging Face dataset ID before publishing this repository.
